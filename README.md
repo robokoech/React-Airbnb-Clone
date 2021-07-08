@@ -2,12 +2,15 @@
 Robobnb is a front-end clone of the popular travel platform known as Airbnb. Airbnb’s website maintains a wide variety of beautiful animations and features while remaining extremely simple and easy to use, it’s one of my favorite web applications which is why I decided to practice my front-end design skills and create a clone.
 
 For this project I implemented React hooks and router to render with speed and efficiency. Additionally, the website's date picker allows users to easily filter stays by time frame and number of guests. The core features are listed below:
-React Router/Hooks
+
+
+React 
+Router/Hooks
 Flexbox
 Date picker
 Growing animations
 Material UI
-Follow the website link above or check out screenshots of the project below.
+More info on my portfolio website: https://robertkoech.dev/project/robobnb
 
 
 
