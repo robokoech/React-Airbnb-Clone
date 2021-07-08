@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
-    // BEM
+    
     <div className="app">
     
     <Router>
@@ -26,7 +26,7 @@ function App() {
     
 
     <Footer/> 
-    </ Router>
+    </Router>
 
 
 
